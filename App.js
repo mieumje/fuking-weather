@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
     backgroundColor: "yellow",
   },
   bluewView: {
-    flex: 1,
+    flex: 2,
     backgroundColor: "blue",
   },
 });
